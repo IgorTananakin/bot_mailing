@@ -1,0 +1,20 @@
+============[Date]============
+[ 2022-06-21 17:44:53  Europe/Moscow ] 
+==========[Response]==========
+ok:			False
+error_code:		429
+description:		Too Many Requests: retry after 1
+parameters:		Array
+=========[Sent Data]==========
+[ref]
+ref.url= https://testigor.ddns.net/testbot/bot.php
+
+
+============[Trace]===========
+#0 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(3206): TelegramErrorLogger::log(Array, Array)
+#1 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(1720): Telegram->endpoint('setWebhook', Array, true)
+#3 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/App/Modules/Webhook/Webhook.php(43): Telegram->setWebhook('https://testigo...')
+#4 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/bot1.php(43): Webhook->setWebhookDynamic('// require_once...', 'https://testigo...')
+#5 {main}
+

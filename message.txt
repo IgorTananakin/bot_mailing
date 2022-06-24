@@ -1,0 +1,41 @@
+Array
+(
+    [update_id] => 838540464
+    [message] => Array
+        (
+            [message_id] => 13
+            [from] => Array
+                (
+                    [id] => 882013448
+                    [is_bot] => 
+                    [first_name] => Игорь
+                    [last_name] => Тананакин
+                    [username] => Igorr04436
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 882013448
+                    [first_name] => Игорь
+                    [last_name] => Тананакин
+                    [username] => Igorr04436
+                    [type] => private
+                )
+
+            [date] => 1655890595
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)

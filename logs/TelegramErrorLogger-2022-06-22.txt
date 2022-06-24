@@ -1,0 +1,666 @@
+============[Date]============
+[ 2022-06-22 13:54:41  Europe/Moscow ] 
+==========[Response]==========
+ok:			False
+error_code:		429
+description:		Too Many Requests: retry after 1
+parameters:		Array
+=========[Sent Data]==========
+[ref]
+ref.update_id= 186946845
+ref.message.message_id= 186
+ref.message.from.id= 882013448
+ref.message.from.is_bot= false
+ref.message.from.first_name= Игорь
+ref.message.from.last_name= Тананакин
+ref.message.from.username= Igorr04436
+ref.message.from.language_code= ru
+ref.message.chat.id= 882013448
+ref.message.chat.first_name= Игорь
+ref.message.chat.last_name= Тананакин
+ref.message.chat.username= Igorr04436
+ref.message.chat.type= private
+ref.message.date= 1655895280
+ref.message.text= UZ 🇺🇿
+
+
+[ref]
+ref.url= https://testigor.ddns.net/testbot/bot.php
+
+
+============[Trace]===========
+#0 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(3206): TelegramErrorLogger::log(Array, Array)
+#1 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(1720): Telegram->endpoint('setWebhook', Array, true)
+#3 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/App/Modules/Webhook/Webhook.php(43): Telegram->setWebhook('https://testigo...')
+#4 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/bot1.php(48): Webhook->setWebhookDynamic('?>', 'https://testigo...')
+#5 {main}
+
+============[Date]============
+[ 2022-06-22 14:15:07  Europe/Moscow ] 
+==========[Response]==========
+ok:			False
+error_code:		429
+description:		Too Many Requests: retry after 1
+parameters:		Array
+=========[Sent Data]==========
+[ref]
+ref.update_id= 186946860
+ref.message.message_id= 206
+ref.message.from.id= 882013448
+ref.message.from.is_bot= false
+ref.message.from.first_name= Игорь
+ref.message.from.last_name= Тананакин
+ref.message.from.username= Igorr04436
+ref.message.from.language_code= ru
+ref.message.chat.id= 882013448
+ref.message.chat.first_name= Игорь
+ref.message.chat.last_name= Тананакин
+ref.message.chat.username= Igorr04436
+ref.message.chat.type= private
+ref.message.date= 1655896506
+ref.message.text= Do'stni taklif qilish 🤝
+
+
+[ref]
+ref.url= https://testigor.ddns.net/testbot/bot.php
+
+
+============[Trace]===========
+#0 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(3206): TelegramErrorLogger::log(Array, Array)
+#1 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(1720): Telegram->endpoint('setWebhook', Array, true)
+#3 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/App/Modules/Webhook/Webhook.php(43): Telegram->setWebhook('https://testigo...')
+#4 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/bot1.php(55): Webhook->setWebhookDynamic('?>', 'https://testigo...')
+#5 {main}
+
+============[Date]============
+[ 2022-06-22 14:15:34  Europe/Moscow ] 
+==========[Response]==========
+ok:			False
+error_code:		429
+description:		Too Many Requests: retry after 1
+parameters:		Array
+=========[Sent Data]==========
+[ref]
+ref.update_id= 186946861
+ref.message.message_id= 208
+ref.message.from.id= 882013448
+ref.message.from.is_bot= false
+ref.message.from.first_name= Игорь
+ref.message.from.last_name= Тананакин
+ref.message.from.username= Igorr04436
+ref.message.from.language_code= ru
+ref.message.chat.id= 882013448
+ref.message.chat.first_name= Игорь
+ref.message.chat.last_name= Тананакин
+ref.message.chat.username= Igorr04436
+ref.message.chat.type= private
+ref.message.date= 1655896533
+ref.message.text= Do'stni taklif qilish 🤝
+
+
+[ref]
+ref.url= https://testigor.ddns.net/testbot/bot.php
+
+
+============[Trace]===========
+#0 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(3206): TelegramErrorLogger::log(Array, Array)
+#1 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(1720): Telegram->endpoint('setWebhook', Array, true)
+#3 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/App/Modules/Webhook/Webhook.php(43): Telegram->setWebhook('https://testigo...')
+#4 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/bot1.php(55): Webhook->setWebhookDynamic('?>', 'https://testigo...')
+#5 {main}
+
+============[Date]============
+[ 2022-06-22 14:15:37  Europe/Moscow ] 
+==========[Response]==========
+ok:			False
+error_code:		429
+description:		Too Many Requests: retry after 1
+parameters:		Array
+=========[Sent Data]==========
+[ref]
+ref.update_id= 186946862
+ref.message.message_id= 210
+ref.message.from.id= 882013448
+ref.message.from.is_bot= false
+ref.message.from.first_name= Игорь
+ref.message.from.last_name= Тананакин
+ref.message.from.username= Igorr04436
+ref.message.from.language_code= ru
+ref.message.chat.id= 882013448
+ref.message.chat.first_name= Игорь
+ref.message.chat.last_name= Тананакин
+ref.message.chat.username= Igorr04436
+ref.message.chat.type= private
+ref.message.date= 1655896537
+ref.message.text= Do'stni taklif qilish 🤝
+
+
+[ref]
+ref.url= https://testigor.ddns.net/testbot/bot.php
+
+
+============[Trace]===========
+#0 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(3206): TelegramErrorLogger::log(Array, Array)
+#1 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(1720): Telegram->endpoint('setWebhook', Array, true)
+#3 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/App/Modules/Webhook/Webhook.php(43): Telegram->setWebhook('https://testigo...')
+#4 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/bot1.php(55): Webhook->setWebhookDynamic('?>', 'https://testigo...')
+#5 {main}
+
+============[Date]============
+[ 2022-06-22 14:16:47  Europe/Moscow ] 
+==========[Response]==========
+ok:			False
+error_code:		429
+description:		Too Many Requests: retry after 1
+parameters:		Array
+=========[Sent Data]==========
+[ref]
+ref.update_id= 186946863
+ref.message.message_id= 212
+ref.message.from.id= 882013448
+ref.message.from.is_bot= false
+ref.message.from.first_name= Игорь
+ref.message.from.last_name= Тананакин
+ref.message.from.username= Igorr04436
+ref.message.from.language_code= ru
+ref.message.chat.id= 882013448
+ref.message.chat.first_name= Игорь
+ref.message.chat.last_name= Тананакин
+ref.message.chat.username= Igorr04436
+ref.message.chat.type= private
+ref.message.date= 1655896606
+ref.message.text= Do'stni taklif qilish 🤝
+
+
+[ref]
+ref.url= https://testigor.ddns.net/testbot/bot.php
+
+
+============[Trace]===========
+#0 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(3206): TelegramErrorLogger::log(Array, Array)
+#1 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(1720): Telegram->endpoint('setWebhook', Array, true)
+#3 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/App/Modules/Webhook/Webhook.php(43): Telegram->setWebhook('https://testigo...')
+#4 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/bot1.php(55): Webhook->setWebhookDynamic('?>', 'https://testigo...')
+#5 {main}
+
+============[Date]============
+[ 2022-06-22 14:20:21  Europe/Moscow ] 
+==========[Response]==========
+ok:			False
+error_code:		429
+description:		Too Many Requests: retry after 1
+parameters:		Array
+=========[Sent Data]==========
+[ref]
+ref.update_id= 186946864
+ref.message.message_id= 214
+ref.message.from.id= 882013448
+ref.message.from.is_bot= false
+ref.message.from.first_name= Игорь
+ref.message.from.last_name= Тананакин
+ref.message.from.username= Igorr04436
+ref.message.from.language_code= ru
+ref.message.chat.id= 882013448
+ref.message.chat.first_name= Игорь
+ref.message.chat.last_name= Тананакин
+ref.message.chat.username= Igorr04436
+ref.message.chat.type= private
+ref.message.date= 1655896820
+ref.message.text= RU 🇷🇺
+
+
+[ref]
+ref.url= https://testigor.ddns.net/testbot/bot.php
+
+
+============[Trace]===========
+#0 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(3206): TelegramErrorLogger::log(Array, Array)
+#1 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(1720): Telegram->endpoint('setWebhook', Array, true)
+#3 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/App/Modules/Webhook/Webhook.php(43): Telegram->setWebhook('https://testigo...')
+#4 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/bot1.php(55): Webhook->setWebhookDynamic('?>', 'https://testigo...')
+#5 {main}
+
+============[Date]============
+[ 2022-06-22 14:26:58  Europe/Moscow ] 
+==========[Response]==========
+ok:			False
+error_code:		429
+description:		Too Many Requests: retry after 1
+parameters:		Array
+=========[Sent Data]==========
+[ref]
+ref.update_id= 186946865
+ref.message.message_id= 216
+ref.message.from.id= 169024420
+ref.message.from.is_bot= false
+ref.message.from.first_name= Konstantin
+ref.message.from.username= KBogd
+ref.message.from.language_code= ru
+ref.message.chat.id= 169024420
+ref.message.chat.first_name= Konstantin
+ref.message.chat.username= KBogd
+ref.message.chat.type= private
+ref.message.date= 1655897217
+ref.message.text= Пригласить друга 🤝
+
+
+[ref]
+ref.url= https://testigor.ddns.net/testbot/bot.php
+
+
+============[Trace]===========
+#0 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(3206): TelegramErrorLogger::log(Array, Array)
+#1 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(1720): Telegram->endpoint('setWebhook', Array, true)
+#3 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/App/Modules/Webhook/Webhook.php(43): Telegram->setWebhook('https://testigo...')
+#4 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/bot1.php(55): Webhook->setWebhookDynamic('?>', 'https://testigo...')
+#5 {main}
+
+============[Date]============
+[ 2022-06-22 14:34:56  Europe/Moscow ] 
+==========[Response]==========
+ok:			False
+error_code:		429
+description:		Too Many Requests: retry after 1
+parameters:		Array
+=========[Sent Data]==========
+[ref]
+ref.update_id= 186946866
+ref.message.message_id= 218
+ref.message.from.id= 169024420
+ref.message.from.is_bot= false
+ref.message.from.first_name= Konstantin
+ref.message.from.username= KBogd
+ref.message.from.language_code= ru
+ref.message.chat.id= 169024420
+ref.message.chat.first_name= Konstantin
+ref.message.chat.username= KBogd
+ref.message.chat.type= private
+ref.message.date= 1655897695
+ref.message.text= Перейти на сайт 🛰
+
+
+[ref]
+ref.url= https://testigor.ddns.net/testbot/bot.php
+
+
+============[Trace]===========
+#0 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(3206): TelegramErrorLogger::log(Array, Array)
+#1 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(1720): Telegram->endpoint('setWebhook', Array, true)
+#3 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/App/Modules/Webhook/Webhook.php(43): Telegram->setWebhook('https://testigo...')
+#4 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/bot1.php(55): Webhook->setWebhookDynamic('?>', 'https://testigo...')
+#5 {main}
+
+============[Date]============
+[ 2022-06-22 14:35:19  Europe/Moscow ] 
+==========[Response]==========
+ok:			False
+error_code:		429
+description:		Too Many Requests: retry after 1
+parameters:		Array
+=========[Sent Data]==========
+[ref]
+ref.update_id= 186946867
+ref.message.message_id= 220
+ref.message.from.id= 169024420
+ref.message.from.is_bot= false
+ref.message.from.first_name= Konstantin
+ref.message.from.username= KBogd
+ref.message.from.language_code= ru
+ref.message.chat.id= 169024420
+ref.message.chat.first_name= Konstantin
+ref.message.chat.username= KBogd
+ref.message.chat.type= private
+ref.message.date= 1655897718
+ref.message.text= Пригласить друга 🤝
+
+
+[ref]
+ref.url= https://testigor.ddns.net/testbot/bot.php
+
+
+============[Trace]===========
+#0 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(3206): TelegramErrorLogger::log(Array, Array)
+#1 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(1720): Telegram->endpoint('setWebhook', Array, true)
+#3 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/App/Modules/Webhook/Webhook.php(43): Telegram->setWebhook('https://testigo...')
+#4 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/bot1.php(55): Webhook->setWebhookDynamic('?>', 'https://testigo...')
+#5 {main}
+
+============[Date]============
+[ 2022-06-22 14:35:50  Europe/Moscow ] 
+==========[Response]==========
+ok:			False
+error_code:		429
+description:		Too Many Requests: retry after 1
+parameters:		Array
+=========[Sent Data]==========
+[ref]
+ref.update_id= 186946868
+ref.message.message_id= 222
+ref.message.from.id= 169024420
+ref.message.from.is_bot= false
+ref.message.from.first_name= Konstantin
+ref.message.from.username= KBogd
+ref.message.from.language_code= ru
+ref.message.chat.id= 169024420
+ref.message.chat.first_name= Konstantin
+ref.message.chat.username= KBogd
+ref.message.chat.type= private
+ref.message.date= 1655897750
+ref.message.text= UZ 🇺🇿
+
+
+[ref]
+ref.url= https://testigor.ddns.net/testbot/bot.php
+
+
+============[Trace]===========
+#0 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(3206): TelegramErrorLogger::log(Array, Array)
+#1 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(1720): Telegram->endpoint('setWebhook', Array, true)
+#3 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/App/Modules/Webhook/Webhook.php(43): Telegram->setWebhook('https://testigo...')
+#4 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/bot1.php(55): Webhook->setWebhookDynamic('?>', 'https://testigo...')
+#5 {main}
+
+============[Date]============
+[ 2022-06-22 14:35:54  Europe/Moscow ] 
+==========[Response]==========
+ok:			False
+error_code:		429
+description:		Too Many Requests: retry after 1
+parameters:		Array
+=========[Sent Data]==========
+[ref]
+ref.update_id= 186946869
+ref.message.message_id= 224
+ref.message.from.id= 169024420
+ref.message.from.is_bot= false
+ref.message.from.first_name= Konstantin
+ref.message.from.username= KBogd
+ref.message.from.language_code= ru
+ref.message.chat.id= 169024420
+ref.message.chat.first_name= Konstantin
+ref.message.chat.username= KBogd
+ref.message.chat.type= private
+ref.message.date= 1655897754
+ref.message.text= RU 🇷🇺
+
+
+[ref]
+ref.url= https://testigor.ddns.net/testbot/bot.php
+
+
+============[Trace]===========
+#0 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(3206): TelegramErrorLogger::log(Array, Array)
+#1 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(1720): Telegram->endpoint('setWebhook', Array, true)
+#3 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/App/Modules/Webhook/Webhook.php(43): Telegram->setWebhook('https://testigo...')
+#4 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/bot1.php(55): Webhook->setWebhookDynamic('?>', 'https://testigo...')
+#5 {main}
+
+============[Date]============
+[ 2022-06-22 14:50:09  Europe/Moscow ] 
+==========[Response]==========
+ok:			False
+error_code:		429
+description:		Too Many Requests: retry after 1
+parameters:		Array
+=========[Sent Data]==========
+[ref]
+ref.update_id= 186946870
+ref.message.message_id= 226
+ref.message.from.id= 882013448
+ref.message.from.is_bot= false
+ref.message.from.first_name= Игорь
+ref.message.from.last_name= Тананакин
+ref.message.from.username= Igorr04436
+ref.message.from.language_code= ru
+ref.message.chat.id= 882013448
+ref.message.chat.first_name= Игорь
+ref.message.chat.last_name= Тананакин
+ref.message.chat.username= Igorr04436
+ref.message.chat.type= private
+ref.message.date= 1655898608
+ref.message.text= UZ 🇺🇿
+
+
+[ref]
+ref.url= https://testigor.ddns.net/testbot/bot.php
+
+
+============[Trace]===========
+#0 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(3206): TelegramErrorLogger::log(Array, Array)
+#1 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(1720): Telegram->endpoint('setWebhook', Array, true)
+#3 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/App/Modules/Webhook/Webhook.php(43): Telegram->setWebhook('https://testigo...')
+#4 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/bot1.php(55): Webhook->setWebhookDynamic('?>', 'https://testigo...')
+#5 {main}
+
+============[Date]============
+[ 2022-06-22 14:50:14  Europe/Moscow ] 
+==========[Response]==========
+ok:			False
+error_code:		429
+description:		Too Many Requests: retry after 1
+parameters:		Array
+=========[Sent Data]==========
+[ref]
+ref.update_id= 186946871
+ref.message.message_id= 228
+ref.message.from.id= 882013448
+ref.message.from.is_bot= false
+ref.message.from.first_name= Игорь
+ref.message.from.last_name= Тананакин
+ref.message.from.username= Igorr04436
+ref.message.from.language_code= ru
+ref.message.chat.id= 882013448
+ref.message.chat.first_name= Игорь
+ref.message.chat.last_name= Тананакин
+ref.message.chat.username= Igorr04436
+ref.message.chat.type= private
+ref.message.date= 1655898613
+ref.message.text= RU 🇷🇺
+
+
+[ref]
+ref.url= https://testigor.ddns.net/testbot/bot.php
+
+
+============[Trace]===========
+#0 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(3206): TelegramErrorLogger::log(Array, Array)
+#1 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(1720): Telegram->endpoint('setWebhook', Array, true)
+#3 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/App/Modules/Webhook/Webhook.php(43): Telegram->setWebhook('https://testigo...')
+#4 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/bot1.php(55): Webhook->setWebhookDynamic('?>', 'https://testigo...')
+#5 {main}
+
+============[Date]============
+[ 2022-06-22 14:50:29  Europe/Moscow ] 
+==========[Response]==========
+ok:			False
+error_code:		429
+description:		Too Many Requests: retry after 1
+parameters:		Array
+=========[Sent Data]==========
+[ref]
+ref.update_id= 186946872
+ref.message.message_id= 230
+ref.message.from.id= 882013448
+ref.message.from.is_bot= false
+ref.message.from.first_name= Игорь
+ref.message.from.last_name= Тананакин
+ref.message.from.username= Igorr04436
+ref.message.from.language_code= ru
+ref.message.chat.id= 882013448
+ref.message.chat.first_name= Игорь
+ref.message.chat.last_name= Тананакин
+ref.message.chat.username= Igorr04436
+ref.message.chat.type= private
+ref.message.date= 1655898629
+ref.message.text= Перейти на сайт 🛰
+
+
+[ref]
+ref.url= https://testigor.ddns.net/testbot/bot.php
+
+
+============[Trace]===========
+#0 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(3206): TelegramErrorLogger::log(Array, Array)
+#1 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(1720): Telegram->endpoint('setWebhook', Array, true)
+#3 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/App/Modules/Webhook/Webhook.php(43): Telegram->setWebhook('https://testigo...')
+#4 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/bot1.php(55): Webhook->setWebhookDynamic('?>', 'https://testigo...')
+#5 {main}
+
+============[Date]============
+[ 2022-06-22 14:58:46  Europe/Moscow ] 
+==========[Response]==========
+ok:			False
+error_code:		429
+description:		Too Many Requests: retry after 1
+parameters:		Array
+=========[Sent Data]==========
+[ref]
+ref.update_id= 186946873
+ref.message.message_id= 232
+ref.message.from.id= 169024420
+ref.message.from.is_bot= false
+ref.message.from.first_name= Konstantin
+ref.message.from.username= KBogd
+ref.message.from.language_code= ru
+ref.message.chat.id= 169024420
+ref.message.chat.first_name= Konstantin
+ref.message.chat.username= KBogd
+ref.message.chat.type= private
+ref.message.date= 1655899126
+ref.message.text= Получить бонус 🎁
+
+
+[ref]
+ref.url= https://testigor.ddns.net/testbot/bot.php
+
+
+============[Trace]===========
+#0 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(3206): TelegramErrorLogger::log(Array, Array)
+#1 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(1720): Telegram->endpoint('setWebhook', Array, true)
+#3 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/App/Modules/Webhook/Webhook.php(43): Telegram->setWebhook('https://testigo...')
+#4 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/bot1.php(55): Webhook->setWebhookDynamic('?>', 'https://testigo...')
+#5 {main}
+
+============[Date]============
+[ 2022-06-22 14:59:08  Europe/Moscow ] 
+==========[Response]==========
+ok:			False
+error_code:		429
+description:		Too Many Requests: retry after 1
+parameters:		Array
+=========[Sent Data]==========
+[ref]
+ref.update_id= 186946874
+ref.message.message_id= 234
+ref.message.from.id= 169024420
+ref.message.from.is_bot= false
+ref.message.from.first_name= Konstantin
+ref.message.from.username= KBogd
+ref.message.from.language_code= ru
+ref.message.chat.id= 169024420
+ref.message.chat.first_name= Konstantin
+ref.message.chat.username= KBogd
+ref.message.chat.type= private
+ref.message.date= 1655899147
+ref.message.text= Пригласить друга 🤝
+
+
+[ref]
+ref.url= https://testigor.ddns.net/testbot/bot.php
+
+
+============[Trace]===========
+#0 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(3206): TelegramErrorLogger::log(Array, Array)
+#1 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(1720): Telegram->endpoint('setWebhook', Array, true)
+#3 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/App/Modules/Webhook/Webhook.php(43): Telegram->setWebhook('https://testigo...')
+#4 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/bot1.php(55): Webhook->setWebhookDynamic('?>', 'https://testigo...')
+#5 {main}
+
+============[Date]============
+[ 2022-06-22 14:59:46  Europe/Moscow ] 
+==========[Response]==========
+ok:			False
+error_code:		429
+description:		Too Many Requests: retry after 1
+parameters:		Array
+=========[Sent Data]==========
+[ref]
+ref.update_id= 186946875
+ref.message.message_id= 236
+ref.message.from.id= 169024420
+ref.message.from.is_bot= false
+ref.message.from.first_name= Konstantin
+ref.message.from.username= KBogd
+ref.message.from.language_code= ru
+ref.message.chat.id= 169024420
+ref.message.chat.first_name= Konstantin
+ref.message.chat.username= KBogd
+ref.message.chat.type= private
+ref.message.date= 1655899185
+ref.message.text= Перейти на сайт 🛰
+
+
+[ref]
+ref.url= https://testigor.ddns.net/testbot/bot.php
+
+
+============[Trace]===========
+#0 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(3206): TelegramErrorLogger::log(Array, Array)
+#1 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(1720): Telegram->endpoint('setWebhook', Array, true)
+#3 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/App/Modules/Webhook/Webhook.php(43): Telegram->setWebhook('https://testigo...')
+#4 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/bot1.php(55): Webhook->setWebhookDynamic('?>', 'https://testigo...')
+#5 {main}
+
+============[Date]============
+[ 2022-06-22 15:50:19  Europe/Moscow ] 
+==========[Response]==========
+ok:			False
+error_code:		429
+description:		Too Many Requests: retry after 1
+parameters:		Array
+=========[Sent Data]==========
+[ref]
+ref.update_id= 186946876
+ref.message.message_id= 238
+ref.message.from.id= 169024420
+ref.message.from.is_bot= false
+ref.message.from.first_name= Konstantin
+ref.message.from.username= KBogd
+ref.message.from.language_code= ru
+ref.message.chat.id= 169024420
+ref.message.chat.first_name= Konstantin
+ref.message.chat.username= KBogd
+ref.message.chat.type= private
+ref.message.date= 1655902219
+ref.message.text= Получить бонус 🎁
+
+
+[ref]
+ref.url= https://testigor.ddns.net/testbot/bot.php
+
+
+============[Trace]===========
+#0 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(3206): TelegramErrorLogger::log(Array, Array)
+#1 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/TelegramAPI/Telegram.php(1720): Telegram->endpoint('setWebhook', Array, true)
+#3 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/App/Modules/Webhook/Webhook.php(43): Telegram->setWebhook('https://testigo...')
+#4 /var/www/igorr/data/www/itsportigor.ddns.net/testbot/bot1.php(55): Webhook->setWebhookDynamic('?>', 'https://testigo...')
+#5 {main}
+

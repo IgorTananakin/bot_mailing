@@ -1,0 +1,25 @@
+{
+  "text" : {
+    "отменено" : "<b>❌ Bekor qilindi ❌</b>",
+    "пришли сами" : "O'zingiz keldingiz!",
+    "пригласил" : "Sizni taklif qildi: ",
+    "реферал" : "✅ <b>Sizda yangi yo'llanma bor!</b>",
+    "мало человек" : "Siz taklif qildingiz {referrals} 15 kishi, bonus olish uchun siz 15 kishini taklif qilishingiz kerak",
+    "уже получили" : "Siz allaqachon bonusni olgansiz!",
+    "карта" : "✅ <b>Karta raqamini kiriting!</b>",
+    "заявка" : "✅ <b>Ilova yaratildi va yaqin orada qayta ishlanadi</b>",
+    "lang" : "✅ <b>Til o‘zgardi</b>"
+  },
+  "inline" : {
+    "отмена": "⏪ Bekor qilish",
+    "сайт" : "Veb-saytga 🛰",
+    "пригласить" : "Taklif qilmoq 👥"
+  },
+  "buttons" : {
+    "отмена" : "⏪ Bekor qilish",
+    "пригласить" : "Do'stni taklif qilish 🤝",
+    "бонус" : "Bonus oling 🎁",
+    "lang" : "RU 🇷🇺",
+    "сайт" : "Veb-saytga o'ting 🛰"
+  }
+}

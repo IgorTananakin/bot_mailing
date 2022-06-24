@@ -1,0 +1,5 @@
+<b>{invited}</b>
+
+<b>Siz taklif qildingiz:</b> <code>{referrals}</code>
+Ushbu havoladan 15 do'stingizni olib keling va 5 dollar oling
+{ref_link}
